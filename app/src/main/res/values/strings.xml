@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CicloviasVersionJose</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filtrar_las_condes">filtrar las condes</string>
+    <string name="lista_sin_filtrar">lista sin filtrar</string>
+    <string name="ingrese_el_texto_a_buscar">ingrese el texto a buscar</string>
+    <string name="buscar">buscar</string>
+    <string name="ingrese_el_numero_a_buscar">ingrese el numero a buscar</string>
+</resources>
